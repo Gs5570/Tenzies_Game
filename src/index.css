@@ -1,0 +1,12 @@
+/* index css */
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+  margin: 0;
+  background-color: #0B2434 ;
+  padding: 35px;
+}
+
