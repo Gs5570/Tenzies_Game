@@ -1,8 +1,20 @@
-# React + Vite
+# Tenzies Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description:
+Interactive tenzie game build with React that allow users to dynamically interact with th application. 
 
-Currently, two official plugins are available:
+>## Technology
+> * [<img align="left" style="margin-right:10px" target="_blank" alt="React" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png?raw=true"/>](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/react.png "React")React
+>
+> * [<img align="left" style="margin-right:10px" target="_blank" alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png "Javascript")JavaScript
+>
+> * [<img align="left" style="margin-right:10px" target="_blank" alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png "HTML") HTML
+>
+> * [<img align="left" style="margin-right:10px" target="_blank" alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=true" />](https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png "CSS")CSS
+>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Commands:
+
+> * npm install ( after downloading the repo)
+> * npm run dev (to run the app locally)
+
